@@ -35,7 +35,7 @@ public class Sim247 {
 		MakeGrid newGrid = new MakeGrid(dimensions,dimensions,7); // Making empty grid with 100 by 100 dimension and 7 magnification
 		
 		// For loop for setting previous array and current array with all values 0
-		for(int i = 0; i < n; i++) {
+		for(int i = 0; i < dimensions; i++) {
 			for(int j = 0; j < dimensions; j++) {
 				current[i][j] = 0;		
 				previous[i][j] = 0;
