@@ -4,7 +4,7 @@
  * Execution:    java Sim247 n pattern
  * 
  * n is number of iterations
- * pattern is R for random, < for Mazing and T for turtle
+ * pattern is R for random, M for Mazing and T for turtle
  * 
  * Sample output:  java Sim247 100 T
  * 
